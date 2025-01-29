@@ -1,0 +1,6 @@
+{
+    "blueprintId": "ubuntu_24_04",
+    "bundleId": "micro_3_0",
+    "templateTutorial": "https://youtube.com",
+    "logo": "n8n.png"
+}
